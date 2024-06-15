@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![JrmTDC' github stats](https://github-readme-stats.vercel.app/api?username=JrmTDC&count_private=true&show_icons=true)
+![JrmTDC' github stats](https://github-readme-stats-ebon-kappa-32.vercel.app/api?username=jrmtdc&bg_color=30%2Ce96443%2C904e95&title_color=fff&text_color=fff&include_all_commits=true&count_private=true)
 
 
 <!--
