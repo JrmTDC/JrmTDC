@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![JrmTDC' github stats](https://github-readme-stats.vercel.app/api?username=jrmtdc&bg_color=30%2Ce96443%2C904e95&title_color=fff&text_color=fff&count_private=true)
+![JrmTDC' github stats](https://github-readme-stats-jrmtdcs-projects.vercel.app/api?username=jrmtdc&bg_color=30%2Ce96443%2C904e95&title_color=fff&text_color=fff&count_private=true)
 
 <!--
 **jrmtdc/tdc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
